@@ -1,0 +1,72 @@
+body {
+    background-color: green;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    background-image: url(images/istockphoto-1339787499-170667a.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+header {
+    color: rgb(66, 3, 161);
+
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav li {
+    display: inline-block
+}
+
+
+nav a {
+    display: block;
+    padding: 20px;
+}
+
+nav a:hover {
+    background-color: rgb(85, 63, 227);
+    color: rgb(6, 90, 101);
+
+}
+
+#merch {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+
+}
+
+#merch button {
+    background-color: transparent;
+    border: none;
+
+}
+
+#merch img {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+#tour ul {
+    margin-left: 30%;
+}
+
+#tour li {
+    text-align: left;
+}
+
+#gallerij ul {
+    margin-left: 30%;
+}
+
+#gallerij li {
+    text-align: left;
+}
+
+footer p {
+    font-size: 10px;
+}
