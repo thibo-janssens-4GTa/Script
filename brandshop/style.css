@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(155, 223, 222);
+}
+header{
+    background-color: rgba(88, 149, 186, 0.413);
+}
+.flex-container {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header nav li{
+    display: inline;
+}
+header img{
+    width: 120px;
+}
+header input{
+    border-radius: 10px;
+    padding: 4px;
+    width: 70px;
+}
+button{
+    background-color: rgba(88, 149, 186, 0.413);
+    border: 0px;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    padding: 10px;
+    margin-left: 10px;
+}
+#idfk{
+padding: 10px;
+margin-right: 10px;
+}
+#clock{
+    margin-right: 10px
+}
+#korting{
+    width: 100%;
+
+
+}
+
+#photos{
+    width: 50%;
+    
+}
+#photo{
+    width: 100%;
+    
+}
